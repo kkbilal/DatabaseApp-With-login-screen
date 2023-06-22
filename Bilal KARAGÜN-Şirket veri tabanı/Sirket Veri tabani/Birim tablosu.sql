@@ -1,0 +1,6 @@
+CREATE TABLE birim (
+birim_no INT IDENTITY(1,1) PRIMARY KEY,
+birim_ad VARCHAR(20) UNIQUE NOT NULL
+);
+
+INSERT INTO birim VALUES ('KALÝTE'),('ÝDARÝ'),('ARGE'),('TEKNÝK');

@@ -1,0 +1,15 @@
+C:\Users\Bilal\source\repos\Sirket DB uygulamasi\Sirket DB uygulamasi\bin\Debug\Sirket DB uygulamasi.exe.config
+C:\Users\Bilal\source\repos\Sirket DB uygulamasi\Sirket DB uygulamasi\bin\Debug\Sirket DB uygulamasi.exe
+C:\Users\Bilal\source\repos\Sirket DB uygulamasi\Sirket DB uygulamasi\bin\Debug\Sirket DB uygulamasi.pdb
+C:\Users\Bilal\source\repos\Sirket DB uygulamasi\Sirket DB uygulamasi\obj\Debug\Sirket DB uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Bilal\source\repos\Sirket DB uygulamasi\Sirket DB uygulamasi\obj\Debug\Sirket DB uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bilal\source\repos\Sirket DB uygulamasi\Sirket DB uygulamasi\obj\Debug\Sirket_DB_uygulamasi.FrmAnaSayfa.resources
+C:\Users\Bilal\source\repos\Sirket DB uygulamasi\Sirket DB uygulamasi\obj\Debug\Sirket_DB_uygulamasi.Properties.Resources.resources
+C:\Users\Bilal\source\repos\Sirket DB uygulamasi\Sirket DB uygulamasi\obj\Debug\Sirket_DB_uygulamasi.YeniCalisanForm.resources
+C:\Users\Bilal\source\repos\Sirket DB uygulamasi\Sirket DB uygulamasi\obj\Debug\Sirket DB uygulamasi.csproj.GenerateResource.cache
+C:\Users\Bilal\source\repos\Sirket DB uygulamasi\Sirket DB uygulamasi\obj\Debug\Sirket DB uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\source\repos\Sirket DB uygulamasi\Sirket DB uygulamasi\obj\Debug\Sirket DB uygulamasi.exe
+C:\Users\Bilal\source\repos\Sirket DB uygulamasi\Sirket DB uygulamasi\obj\Debug\Sirket DB uygulamasi.pdb
+C:\Users\Bilal\source\repos\Sirket DB uygulamasi\Sirket DB uygulamasi\obj\Debug\Sirket_DB_uygulamasi.Frmadmin.resources
+C:\Users\Bilal\source\repos\Sirket DB uygulamasi\Sirket DB uygulamasi\obj\Debug\Sirket_DB_uygulamasi.Frmpersoneller.resources
+C:\Users\Bilal\source\repos\Sirket DB uygulamasi\Sirket DB uygulamasi\obj\Debug\Sirket_DB_uygulamasi.frmtablolar.resources

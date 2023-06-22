@@ -1,0 +1,17 @@
+CREATE TABLE il (
+il_no CHAR(2) PRIMARY KEY,
+il_ad VARCHAR(20) UNIQUE NOT NULL
+)
+
+INSERT INTO il VALUES ('06','ANKARA'),('34','ÝSTANBUL'),('35','ÝZMÝR');
+
+CREATE TABLE ilce (
+ilce_no INT IDENTITY(1,1) PRIMARY KEY,
+ilce_ad VARCHAR(20) NOT NULL,
+il_no CHAR(2) NOT NULL REFERENCES il(il_no),
+CONSTRAINT ilceTekil UNIQUE (ilce_ad,il_no)
+)
+
+INSERT INTO ilce VALUES 
+('ÇANKAYA','06'),('POLATLI','06'),('YENÝMAHALLE','06'),('AVCILAR','34'),
+('BEYLÝKDÜZÜ','34'),('ESENYURT','34'),('BUCA','35'),('KARÞIYAKA','35'),('KONAK','35');

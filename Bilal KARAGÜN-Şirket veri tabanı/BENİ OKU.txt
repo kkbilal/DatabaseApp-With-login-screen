@@ -1,0 +1,1 @@
+ŞirketDB.sql uzantılı script dosyamdan hariç Sirket veri tabani dosyamda tablolarımı oluşturduğum tüm queryler mevcuttur.
